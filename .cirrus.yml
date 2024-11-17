@@ -1,0 +1,5 @@
+freebsd_instance:
+  image_family: freebsd-14-1
+
+task:
+  install_script: uname -a
